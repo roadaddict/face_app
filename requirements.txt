@@ -1,4 +1,4 @@
-cmake==3.14.4
+cmake
 face==19.1.2
 face-recognition==1.2.3
 face-recognition-models==0.3.0
