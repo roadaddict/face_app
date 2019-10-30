@@ -2,7 +2,7 @@ cmake
 face==19.1.2
 face-recognition==1.2.3
 face-recognition-models==0.3.0
-Flask==0.12
+Flask==1.0
 gunicorn==19.9.0
 opencv-python==4.1.1.26
 dlib==19.17.0
