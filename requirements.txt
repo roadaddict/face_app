@@ -6,4 +6,4 @@ Flask==0.12
 gunicorn==19.9.0
 opencv-python==4.1.1.26
 dlib==19.17.0
-numpy==1.11.3
+numpy==1.21.0
